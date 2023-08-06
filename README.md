@@ -1,2 +1,3 @@
 # datascience-01
-Notebook DataScienceEcosystem.ipynb added in this repository.
+Add Notebook DataScienceEcosystem.ipynb in this repository.
+Upload screenshots during DataScienceEcosystem execution.
